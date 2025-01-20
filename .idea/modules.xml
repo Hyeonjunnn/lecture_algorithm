@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_01_linkedList/_01_linkedList.iml" filepath="$PROJECT_DIR$/_01_linkedList/_01_linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_stack/_02_stack.iml" filepath="$PROJECT_DIR$/_02_stack/_02_stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture_algorithm.iml" filepath="$PROJECT_DIR$/lecture_algorithm.iml" />
     </modules>
   </component>
