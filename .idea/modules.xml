@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/_03_queue/_03_queue.iml" filepath="$PROJECT_DIR$/_03_queue/_03_queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/_04_hashTable/_04_hashTable.iml" filepath="$PROJECT_DIR$/_04_hashTable/_04_hashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/_05_sort/_05_sort.iml" filepath="$PROJECT_DIR$/_05_sort/_05_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_search/_06_search.iml" filepath="$PROJECT_DIR$/_06_search/_06_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture_algorithm.iml" filepath="$PROJECT_DIR$/lecture_algorithm.iml" />
     </modules>
   </component>
